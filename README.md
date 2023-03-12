@@ -1,5 +1,1 @@
-- 👋 Hi, I’m no one
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me: You can't
+
